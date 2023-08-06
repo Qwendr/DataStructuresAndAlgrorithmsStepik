@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\ReversalSequence\bin\Debug\net7.0\ReversalSequence.exe
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\ReversalSequence\bin\Debug\net7.0\ReversalSequence.deps.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\ReversalSequence\bin\Debug\net7.0\ReversalSequence.runtimeconfig.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\ReversalSequence\bin\Debug\net7.0\ReversalSequence.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\ReversalSequence\bin\Debug\net7.0\ReversalSequence.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\ReversalSequence\obj\Debug\net7.0\ReversalSequence.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\ReversalSequence\obj\Debug\net7.0\ReversalSequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\ReversalSequence\obj\Debug\net7.0\ReversalSequence.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\ReversalSequence\obj\Debug\net7.0\ReversalSequence.AssemblyInfo.cs
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\ReversalSequence\obj\Debug\net7.0\ReversalSequence.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\ReversalSequence\obj\Debug\net7.0\ReversalSequence.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\ReversalSequence\obj\Debug\net7.0\refint\ReversalSequence.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\ReversalSequence\obj\Debug\net7.0\ReversalSequence.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\ReversalSequence\obj\Debug\net7.0\ReversalSequence.genruntimeconfig.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\ReversalSequence\obj\Debug\net7.0\ref\ReversalSequence.dll

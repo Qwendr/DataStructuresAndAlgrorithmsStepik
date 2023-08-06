@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\DynamicArray\bin\Debug\net7.0\DynamicArray.exe
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\DynamicArray\bin\Debug\net7.0\DynamicArray.deps.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\DynamicArray\bin\Debug\net7.0\DynamicArray.runtimeconfig.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\DynamicArray\bin\Debug\net7.0\DynamicArray.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\DynamicArray\bin\Debug\net7.0\DynamicArray.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\DynamicArray\obj\Debug\net7.0\DynamicArray.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\DynamicArray\obj\Debug\net7.0\DynamicArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\DynamicArray\obj\Debug\net7.0\DynamicArray.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\DynamicArray\obj\Debug\net7.0\DynamicArray.AssemblyInfo.cs
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\DynamicArray\obj\Debug\net7.0\DynamicArray.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\DynamicArray\obj\Debug\net7.0\DynamicArray.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\DynamicArray\obj\Debug\net7.0\refint\DynamicArray.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\DynamicArray\obj\Debug\net7.0\DynamicArray.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\DynamicArray\obj\Debug\net7.0\DynamicArray.genruntimeconfig.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\DynamicArray\obj\Debug\net7.0\ref\DynamicArray.dll

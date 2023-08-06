@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Brothers\bin\Debug\net7.0\Brothers.exe
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Brothers\bin\Debug\net7.0\Brothers.deps.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Brothers\bin\Debug\net7.0\Brothers.runtimeconfig.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Brothers\bin\Debug\net7.0\Brothers.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Brothers\bin\Debug\net7.0\Brothers.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Brothers\obj\Debug\net7.0\Brothers.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Brothers\obj\Debug\net7.0\Brothers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Brothers\obj\Debug\net7.0\Brothers.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Brothers\obj\Debug\net7.0\Brothers.AssemblyInfo.cs
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Brothers\obj\Debug\net7.0\Brothers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Brothers\obj\Debug\net7.0\Brothers.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Brothers\obj\Debug\net7.0\refint\Brothers.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Brothers\obj\Debug\net7.0\Brothers.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Brothers\obj\Debug\net7.0\Brothers.genruntimeconfig.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Brothers\obj\Debug\net7.0\ref\Brothers.dll

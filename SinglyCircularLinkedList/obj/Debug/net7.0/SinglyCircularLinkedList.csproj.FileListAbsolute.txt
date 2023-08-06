@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SinglyCircularLinkedList\bin\Debug\net7.0\SinglyCircularLinkedList.exe
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SinglyCircularLinkedList\bin\Debug\net7.0\SinglyCircularLinkedList.deps.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SinglyCircularLinkedList\bin\Debug\net7.0\SinglyCircularLinkedList.runtimeconfig.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SinglyCircularLinkedList\bin\Debug\net7.0\SinglyCircularLinkedList.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SinglyCircularLinkedList\bin\Debug\net7.0\SinglyCircularLinkedList.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SinglyCircularLinkedList\obj\Debug\net7.0\SinglyCircularLinkedList.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SinglyCircularLinkedList\obj\Debug\net7.0\SinglyCircularLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SinglyCircularLinkedList\obj\Debug\net7.0\SinglyCircularLinkedList.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SinglyCircularLinkedList\obj\Debug\net7.0\SinglyCircularLinkedList.AssemblyInfo.cs
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SinglyCircularLinkedList\obj\Debug\net7.0\SinglyCircularLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SinglyCircularLinkedList\obj\Debug\net7.0\SinglyCircularLinkedList.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SinglyCircularLinkedList\obj\Debug\net7.0\refint\SinglyCircularLinkedList.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SinglyCircularLinkedList\obj\Debug\net7.0\SinglyCircularLinkedList.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SinglyCircularLinkedList\obj\Debug\net7.0\SinglyCircularLinkedList.genruntimeconfig.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SinglyCircularLinkedList\obj\Debug\net7.0\ref\SinglyCircularLinkedList.dll

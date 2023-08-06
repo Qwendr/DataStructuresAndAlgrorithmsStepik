@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\StackOnList\bin\Debug\net7.0\StackOnList.exe
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\StackOnList\bin\Debug\net7.0\StackOnList.deps.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\StackOnList\bin\Debug\net7.0\StackOnList.runtimeconfig.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\StackOnList\bin\Debug\net7.0\StackOnList.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\StackOnList\bin\Debug\net7.0\StackOnList.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\StackOnList\obj\Debug\net7.0\StackOnList.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\StackOnList\obj\Debug\net7.0\StackOnList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\StackOnList\obj\Debug\net7.0\StackOnList.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\StackOnList\obj\Debug\net7.0\StackOnList.AssemblyInfo.cs
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\StackOnList\obj\Debug\net7.0\StackOnList.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\StackOnList\obj\Debug\net7.0\StackOnList.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\StackOnList\obj\Debug\net7.0\refint\StackOnList.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\StackOnList\obj\Debug\net7.0\StackOnList.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\StackOnList\obj\Debug\net7.0\StackOnList.genruntimeconfig.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\StackOnList\obj\Debug\net7.0\ref\StackOnList.dll

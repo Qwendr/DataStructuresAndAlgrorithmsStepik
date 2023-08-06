@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\PpostfixForm\bin\Debug\net7.0\PostfixForm.exe
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\PpostfixForm\bin\Debug\net7.0\PostfixForm.deps.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\PpostfixForm\bin\Debug\net7.0\PostfixForm.runtimeconfig.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\PpostfixForm\bin\Debug\net7.0\PostfixForm.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\PpostfixForm\bin\Debug\net7.0\PostfixForm.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\PpostfixForm\obj\Debug\net7.0\PostfixForm.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\PpostfixForm\obj\Debug\net7.0\PostfixForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\PpostfixForm\obj\Debug\net7.0\PostfixForm.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\PpostfixForm\obj\Debug\net7.0\PostfixForm.AssemblyInfo.cs
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\PpostfixForm\obj\Debug\net7.0\PostfixForm.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\PpostfixForm\obj\Debug\net7.0\PostfixForm.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\PpostfixForm\obj\Debug\net7.0\refint\PostfixForm.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\PpostfixForm\obj\Debug\net7.0\PostfixForm.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\PpostfixForm\obj\Debug\net7.0\PostfixForm.genruntimeconfig.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\PpostfixForm\obj\Debug\net7.0\ref\PostfixForm.dll

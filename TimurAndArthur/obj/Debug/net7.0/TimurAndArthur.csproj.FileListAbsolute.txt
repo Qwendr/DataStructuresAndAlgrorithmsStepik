@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\TimurAndArthur\bin\Debug\net7.0\TimurAndArthur.exe
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\TimurAndArthur\bin\Debug\net7.0\TimurAndArthur.deps.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\TimurAndArthur\bin\Debug\net7.0\TimurAndArthur.runtimeconfig.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\TimurAndArthur\bin\Debug\net7.0\TimurAndArthur.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\TimurAndArthur\bin\Debug\net7.0\TimurAndArthur.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\TimurAndArthur\obj\Debug\net7.0\TimurAndArthur.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\TimurAndArthur\obj\Debug\net7.0\TimurAndArthur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\TimurAndArthur\obj\Debug\net7.0\TimurAndArthur.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\TimurAndArthur\obj\Debug\net7.0\TimurAndArthur.AssemblyInfo.cs
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\TimurAndArthur\obj\Debug\net7.0\TimurAndArthur.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\TimurAndArthur\obj\Debug\net7.0\TimurAndArthur.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\TimurAndArthur\obj\Debug\net7.0\refint\TimurAndArthur.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\TimurAndArthur\obj\Debug\net7.0\TimurAndArthur.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\TimurAndArthur\obj\Debug\net7.0\TimurAndArthur.genruntimeconfig.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\TimurAndArthur\obj\Debug\net7.0\ref\TimurAndArthur.dll

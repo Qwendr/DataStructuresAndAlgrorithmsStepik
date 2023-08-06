@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Anagrams\bin\Debug\net7.0\Anagrams.exe
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Anagrams\bin\Debug\net7.0\Anagrams.deps.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Anagrams\bin\Debug\net7.0\Anagrams.runtimeconfig.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Anagrams\bin\Debug\net7.0\Anagrams.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Anagrams\bin\Debug\net7.0\Anagrams.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Anagrams\obj\Debug\net7.0\Anagrams.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Anagrams\obj\Debug\net7.0\Anagrams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Anagrams\obj\Debug\net7.0\Anagrams.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Anagrams\obj\Debug\net7.0\Anagrams.AssemblyInfo.cs
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Anagrams\obj\Debug\net7.0\Anagrams.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Anagrams\obj\Debug\net7.0\Anagrams.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Anagrams\obj\Debug\net7.0\refint\Anagrams.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Anagrams\obj\Debug\net7.0\Anagrams.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Anagrams\obj\Debug\net7.0\Anagrams.genruntimeconfig.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Anagrams\obj\Debug\net7.0\ref\Anagrams.dll

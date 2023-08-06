@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BracketSequence\bin\Debug\net7.0\BracketSequence.exe
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BracketSequence\bin\Debug\net7.0\BracketSequence.deps.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BracketSequence\bin\Debug\net7.0\BracketSequence.runtimeconfig.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BracketSequence\bin\Debug\net7.0\BracketSequence.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BracketSequence\bin\Debug\net7.0\BracketSequence.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BracketSequence\obj\Debug\net7.0\BracketSequence.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BracketSequence\obj\Debug\net7.0\BracketSequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BracketSequence\obj\Debug\net7.0\BracketSequence.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BracketSequence\obj\Debug\net7.0\BracketSequence.AssemblyInfo.cs
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BracketSequence\obj\Debug\net7.0\BracketSequence.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BracketSequence\obj\Debug\net7.0\BracketSequence.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BracketSequence\obj\Debug\net7.0\refint\BracketSequence.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BracketSequence\obj\Debug\net7.0\BracketSequence.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BracketSequence\obj\Debug\net7.0\BracketSequence.genruntimeconfig.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BracketSequence\obj\Debug\net7.0\ref\BracketSequence.dll

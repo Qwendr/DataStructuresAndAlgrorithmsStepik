@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BinarySearch\bin\Debug\net7.0\BinarySearch.exe
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BinarySearch\bin\Debug\net7.0\BinarySearch.deps.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BinarySearch\bin\Debug\net7.0\BinarySearch.runtimeconfig.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BinarySearch\bin\Debug\net7.0\BinarySearch.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BinarySearch\bin\Debug\net7.0\BinarySearch.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BinarySearch\obj\Debug\net7.0\BinarySearch.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BinarySearch\obj\Debug\net7.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BinarySearch\obj\Debug\net7.0\BinarySearch.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BinarySearch\obj\Debug\net7.0\BinarySearch.AssemblyInfo.cs
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BinarySearch\obj\Debug\net7.0\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BinarySearch\obj\Debug\net7.0\BinarySearch.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BinarySearch\obj\Debug\net7.0\refint\BinarySearch.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BinarySearch\obj\Debug\net7.0\BinarySearch.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BinarySearch\obj\Debug\net7.0\BinarySearch.genruntimeconfig.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BinarySearch\obj\Debug\net7.0\ref\BinarySearch.dll

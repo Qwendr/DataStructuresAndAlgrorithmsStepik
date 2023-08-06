@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\LeftJumpSearch\bin\Debug\net7.0\LeftJumpSearch.exe
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\LeftJumpSearch\bin\Debug\net7.0\LeftJumpSearch.deps.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\LeftJumpSearch\bin\Debug\net7.0\LeftJumpSearch.runtimeconfig.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\LeftJumpSearch\bin\Debug\net7.0\LeftJumpSearch.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\LeftJumpSearch\bin\Debug\net7.0\LeftJumpSearch.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\LeftJumpSearch\obj\Debug\net7.0\LeftJumpSearch.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\LeftJumpSearch\obj\Debug\net7.0\LeftJumpSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\LeftJumpSearch\obj\Debug\net7.0\LeftJumpSearch.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\LeftJumpSearch\obj\Debug\net7.0\LeftJumpSearch.AssemblyInfo.cs
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\LeftJumpSearch\obj\Debug\net7.0\LeftJumpSearch.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\LeftJumpSearch\obj\Debug\net7.0\LeftJumpSearch.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\LeftJumpSearch\obj\Debug\net7.0\refint\LeftJumpSearch.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\LeftJumpSearch\obj\Debug\net7.0\LeftJumpSearch.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\LeftJumpSearch\obj\Debug\net7.0\LeftJumpSearch.genruntimeconfig.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\LeftJumpSearch\obj\Debug\net7.0\ref\LeftJumpSearch.dll

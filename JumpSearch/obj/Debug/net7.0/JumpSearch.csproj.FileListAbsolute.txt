@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\JumpSearch\bin\Debug\net7.0\JumpSearch.exe
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\JumpSearch\bin\Debug\net7.0\JumpSearch.deps.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\JumpSearch\bin\Debug\net7.0\JumpSearch.runtimeconfig.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\JumpSearch\bin\Debug\net7.0\JumpSearch.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\JumpSearch\bin\Debug\net7.0\JumpSearch.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\JumpSearch\obj\Debug\net7.0\JumpSearch.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\JumpSearch\obj\Debug\net7.0\JumpSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\JumpSearch\obj\Debug\net7.0\JumpSearch.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\JumpSearch\obj\Debug\net7.0\JumpSearch.AssemblyInfo.cs
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\JumpSearch\obj\Debug\net7.0\JumpSearch.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\JumpSearch\obj\Debug\net7.0\JumpSearch.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\JumpSearch\obj\Debug\net7.0\refint\JumpSearch.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\JumpSearch\obj\Debug\net7.0\JumpSearch.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\JumpSearch\obj\Debug\net7.0\JumpSearch.genruntimeconfig.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\JumpSearch\obj\Debug\net7.0\ref\JumpSearch.dll

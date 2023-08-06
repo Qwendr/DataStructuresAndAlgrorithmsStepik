@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SetOnArray\bin\Debug\net7.0\SetOnArray.exe
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SetOnArray\bin\Debug\net7.0\SetOnArray.deps.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SetOnArray\bin\Debug\net7.0\SetOnArray.runtimeconfig.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SetOnArray\bin\Debug\net7.0\SetOnArray.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SetOnArray\bin\Debug\net7.0\SetOnArray.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SetOnArray\obj\Debug\net7.0\SetOnArray.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SetOnArray\obj\Debug\net7.0\SetOnArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SetOnArray\obj\Debug\net7.0\SetOnArray.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SetOnArray\obj\Debug\net7.0\SetOnArray.AssemblyInfo.cs
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SetOnArray\obj\Debug\net7.0\SetOnArray.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SetOnArray\obj\Debug\net7.0\SetOnArray.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SetOnArray\obj\Debug\net7.0\refint\SetOnArray.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SetOnArray\obj\Debug\net7.0\SetOnArray.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SetOnArray\obj\Debug\net7.0\SetOnArray.genruntimeconfig.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SetOnArray\obj\Debug\net7.0\ref\SetOnArray.dll

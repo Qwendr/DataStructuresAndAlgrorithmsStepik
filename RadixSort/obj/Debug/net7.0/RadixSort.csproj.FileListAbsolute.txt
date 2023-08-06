@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\RadixSort\bin\Debug\net7.0\RadixSort.exe
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\RadixSort\bin\Debug\net7.0\RadixSort.deps.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\RadixSort\bin\Debug\net7.0\RadixSort.runtimeconfig.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\RadixSort\bin\Debug\net7.0\RadixSort.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\RadixSort\bin\Debug\net7.0\RadixSort.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\RadixSort\obj\Debug\net7.0\RadixSort.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\RadixSort\obj\Debug\net7.0\RadixSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\RadixSort\obj\Debug\net7.0\RadixSort.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\RadixSort\obj\Debug\net7.0\RadixSort.AssemblyInfo.cs
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\RadixSort\obj\Debug\net7.0\RadixSort.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\RadixSort\obj\Debug\net7.0\RadixSort.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\RadixSort\obj\Debug\net7.0\refint\RadixSort.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\RadixSort\obj\Debug\net7.0\RadixSort.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\RadixSort\obj\Debug\net7.0\RadixSort.genruntimeconfig.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\RadixSort\obj\Debug\net7.0\ref\RadixSort.dll

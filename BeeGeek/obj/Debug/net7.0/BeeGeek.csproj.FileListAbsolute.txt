@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BeeGeek\bin\Debug\net7.0\BeeGeek.exe
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BeeGeek\bin\Debug\net7.0\BeeGeek.deps.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BeeGeek\bin\Debug\net7.0\BeeGeek.runtimeconfig.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BeeGeek\bin\Debug\net7.0\BeeGeek.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BeeGeek\bin\Debug\net7.0\BeeGeek.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BeeGeek\obj\Debug\net7.0\BeeGeek.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BeeGeek\obj\Debug\net7.0\BeeGeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BeeGeek\obj\Debug\net7.0\BeeGeek.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BeeGeek\obj\Debug\net7.0\BeeGeek.AssemblyInfo.cs
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BeeGeek\obj\Debug\net7.0\BeeGeek.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BeeGeek\obj\Debug\net7.0\BeeGeek.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BeeGeek\obj\Debug\net7.0\refint\BeeGeek.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BeeGeek\obj\Debug\net7.0\BeeGeek.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BeeGeek\obj\Debug\net7.0\BeeGeek.genruntimeconfig.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BeeGeek\obj\Debug\net7.0\ref\BeeGeek.dll

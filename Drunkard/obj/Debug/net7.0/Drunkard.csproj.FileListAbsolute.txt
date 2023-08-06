@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Drunkard\bin\Debug\net7.0\Drunkard.exe
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Drunkard\bin\Debug\net7.0\Drunkard.deps.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Drunkard\bin\Debug\net7.0\Drunkard.runtimeconfig.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Drunkard\bin\Debug\net7.0\Drunkard.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Drunkard\bin\Debug\net7.0\Drunkard.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Drunkard\obj\Debug\net7.0\Drunkard.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Drunkard\obj\Debug\net7.0\Drunkard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Drunkard\obj\Debug\net7.0\Drunkard.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Drunkard\obj\Debug\net7.0\Drunkard.AssemblyInfo.cs
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Drunkard\obj\Debug\net7.0\Drunkard.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Drunkard\obj\Debug\net7.0\Drunkard.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Drunkard\obj\Debug\net7.0\refint\Drunkard.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Drunkard\obj\Debug\net7.0\Drunkard.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Drunkard\obj\Debug\net7.0\Drunkard.genruntimeconfig.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Drunkard\obj\Debug\net7.0\ref\Drunkard.dll

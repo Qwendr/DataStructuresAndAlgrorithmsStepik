@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BinaryToIntegerConversion\bin\Debug\net7.0\BinaryToIntegerConversion.exe
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BinaryToIntegerConversion\bin\Debug\net7.0\BinaryToIntegerConversion.deps.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BinaryToIntegerConversion\bin\Debug\net7.0\BinaryToIntegerConversion.runtimeconfig.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BinaryToIntegerConversion\bin\Debug\net7.0\BinaryToIntegerConversion.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BinaryToIntegerConversion\bin\Debug\net7.0\BinaryToIntegerConversion.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BinaryToIntegerConversion\obj\Debug\net7.0\BinaryToIntegerConversion.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BinaryToIntegerConversion\obj\Debug\net7.0\BinaryToIntegerConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BinaryToIntegerConversion\obj\Debug\net7.0\BinaryToIntegerConversion.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BinaryToIntegerConversion\obj\Debug\net7.0\BinaryToIntegerConversion.AssemblyInfo.cs
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BinaryToIntegerConversion\obj\Debug\net7.0\BinaryToIntegerConversion.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BinaryToIntegerConversion\obj\Debug\net7.0\BinaryToIntegerConversion.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BinaryToIntegerConversion\obj\Debug\net7.0\refint\BinaryToIntegerConversion.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BinaryToIntegerConversion\obj\Debug\net7.0\BinaryToIntegerConversion.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BinaryToIntegerConversion\obj\Debug\net7.0\BinaryToIntegerConversion.genruntimeconfig.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\BinaryToIntegerConversion\obj\Debug\net7.0\ref\BinaryToIntegerConversion.dll

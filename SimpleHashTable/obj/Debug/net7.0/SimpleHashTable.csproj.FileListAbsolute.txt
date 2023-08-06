@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SimpleHashTable\bin\Debug\net7.0\SimpleHashTable.exe
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SimpleHashTable\bin\Debug\net7.0\SimpleHashTable.deps.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SimpleHashTable\bin\Debug\net7.0\SimpleHashTable.runtimeconfig.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SimpleHashTable\bin\Debug\net7.0\SimpleHashTable.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SimpleHashTable\bin\Debug\net7.0\SimpleHashTable.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SimpleHashTable\obj\Debug\net7.0\SimpleHashTable.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SimpleHashTable\obj\Debug\net7.0\SimpleHashTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SimpleHashTable\obj\Debug\net7.0\SimpleHashTable.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SimpleHashTable\obj\Debug\net7.0\SimpleHashTable.AssemblyInfo.cs
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SimpleHashTable\obj\Debug\net7.0\SimpleHashTable.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SimpleHashTable\obj\Debug\net7.0\SimpleHashTable.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SimpleHashTable\obj\Debug\net7.0\refint\SimpleHashTable.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SimpleHashTable\obj\Debug\net7.0\SimpleHashTable.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SimpleHashTable\obj\Debug\net7.0\SimpleHashTable.genruntimeconfig.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SimpleHashTable\obj\Debug\net7.0\ref\SimpleHashTable.dll

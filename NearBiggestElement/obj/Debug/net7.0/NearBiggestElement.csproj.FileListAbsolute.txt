@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\NearBiggestElement\bin\Debug\net7.0\NearBiggestElement.exe
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\NearBiggestElement\bin\Debug\net7.0\NearBiggestElement.deps.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\NearBiggestElement\bin\Debug\net7.0\NearBiggestElement.runtimeconfig.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\NearBiggestElement\bin\Debug\net7.0\NearBiggestElement.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\NearBiggestElement\bin\Debug\net7.0\NearBiggestElement.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\NearBiggestElement\obj\Debug\net7.0\NearBiggestElement.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\NearBiggestElement\obj\Debug\net7.0\NearBiggestElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\NearBiggestElement\obj\Debug\net7.0\NearBiggestElement.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\NearBiggestElement\obj\Debug\net7.0\NearBiggestElement.AssemblyInfo.cs
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\NearBiggestElement\obj\Debug\net7.0\NearBiggestElement.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\NearBiggestElement\obj\Debug\net7.0\NearBiggestElement.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\NearBiggestElement\obj\Debug\net7.0\refint\NearBiggestElement.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\NearBiggestElement\obj\Debug\net7.0\NearBiggestElement.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\NearBiggestElement\obj\Debug\net7.0\NearBiggestElement.genruntimeconfig.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\NearBiggestElement\obj\Debug\net7.0\ref\NearBiggestElement.dll

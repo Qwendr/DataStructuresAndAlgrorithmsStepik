@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\NumberOfEachLetter\bin\Debug\net7.0\NumberOfEachLetter.exe
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\NumberOfEachLetter\bin\Debug\net7.0\NumberOfEachLetter.deps.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\NumberOfEachLetter\bin\Debug\net7.0\NumberOfEachLetter.runtimeconfig.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\NumberOfEachLetter\bin\Debug\net7.0\NumberOfEachLetter.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\NumberOfEachLetter\bin\Debug\net7.0\NumberOfEachLetter.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\NumberOfEachLetter\obj\Debug\net7.0\NumberOfEachLetter.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\NumberOfEachLetter\obj\Debug\net7.0\NumberOfEachLetter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\NumberOfEachLetter\obj\Debug\net7.0\NumberOfEachLetter.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\NumberOfEachLetter\obj\Debug\net7.0\NumberOfEachLetter.AssemblyInfo.cs
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\NumberOfEachLetter\obj\Debug\net7.0\NumberOfEachLetter.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\NumberOfEachLetter\obj\Debug\net7.0\NumberOfEachLetter.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\NumberOfEachLetter\obj\Debug\net7.0\refint\NumberOfEachLetter.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\NumberOfEachLetter\obj\Debug\net7.0\NumberOfEachLetter.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\NumberOfEachLetter\obj\Debug\net7.0\NumberOfEachLetter.genruntimeconfig.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\NumberOfEachLetter\obj\Debug\net7.0\ref\NumberOfEachLetter.dll

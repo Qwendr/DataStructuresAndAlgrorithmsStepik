@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Queue2\bin\Debug\net7.0\Queue2.exe
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Queue2\bin\Debug\net7.0\Queue2.deps.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Queue2\bin\Debug\net7.0\Queue2.runtimeconfig.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Queue2\bin\Debug\net7.0\Queue2.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Queue2\bin\Debug\net7.0\Queue2.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Queue2\obj\Debug\net7.0\Queue2.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Queue2\obj\Debug\net7.0\Queue2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Queue2\obj\Debug\net7.0\Queue2.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Queue2\obj\Debug\net7.0\Queue2.AssemblyInfo.cs
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Queue2\obj\Debug\net7.0\Queue2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Queue2\obj\Debug\net7.0\Queue2.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Queue2\obj\Debug\net7.0\refint\Queue2.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Queue2\obj\Debug\net7.0\Queue2.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Queue2\obj\Debug\net7.0\Queue2.genruntimeconfig.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Queue2\obj\Debug\net7.0\ref\Queue2.dll

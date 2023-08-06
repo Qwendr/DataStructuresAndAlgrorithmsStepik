@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\DoubleCircularLinkedList\bin\Debug\net7.0\DoubleCircularLinkedList.exe
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\DoubleCircularLinkedList\bin\Debug\net7.0\DoubleCircularLinkedList.deps.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\DoubleCircularLinkedList\bin\Debug\net7.0\DoubleCircularLinkedList.runtimeconfig.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\DoubleCircularLinkedList\bin\Debug\net7.0\DoubleCircularLinkedList.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\DoubleCircularLinkedList\bin\Debug\net7.0\DoubleCircularLinkedList.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\DoubleCircularLinkedList\obj\Debug\net7.0\DoubleCircularLinkedList.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\DoubleCircularLinkedList\obj\Debug\net7.0\DoubleCircularLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\DoubleCircularLinkedList\obj\Debug\net7.0\DoubleCircularLinkedList.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\DoubleCircularLinkedList\obj\Debug\net7.0\DoubleCircularLinkedList.AssemblyInfo.cs
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\DoubleCircularLinkedList\obj\Debug\net7.0\DoubleCircularLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\DoubleCircularLinkedList\obj\Debug\net7.0\DoubleCircularLinkedList.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\DoubleCircularLinkedList\obj\Debug\net7.0\refint\DoubleCircularLinkedList.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\DoubleCircularLinkedList\obj\Debug\net7.0\DoubleCircularLinkedList.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\DoubleCircularLinkedList\obj\Debug\net7.0\DoubleCircularLinkedList.genruntimeconfig.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\DoubleCircularLinkedList\obj\Debug\net7.0\ref\DoubleCircularLinkedList.dll

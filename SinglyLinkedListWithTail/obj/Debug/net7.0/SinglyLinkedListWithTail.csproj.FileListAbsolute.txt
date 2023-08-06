@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SinglyLinkedListWithTail\bin\Debug\net7.0\SinglyLinkedListWithTail.exe
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SinglyLinkedListWithTail\bin\Debug\net7.0\SinglyLinkedListWithTail.deps.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SinglyLinkedListWithTail\bin\Debug\net7.0\SinglyLinkedListWithTail.runtimeconfig.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SinglyLinkedListWithTail\bin\Debug\net7.0\SinglyLinkedListWithTail.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SinglyLinkedListWithTail\bin\Debug\net7.0\SinglyLinkedListWithTail.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SinglyLinkedListWithTail\obj\Debug\net7.0\SinglyLinkedListWithTail.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SinglyLinkedListWithTail\obj\Debug\net7.0\SinglyLinkedListWithTail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SinglyLinkedListWithTail\obj\Debug\net7.0\SinglyLinkedListWithTail.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SinglyLinkedListWithTail\obj\Debug\net7.0\SinglyLinkedListWithTail.AssemblyInfo.cs
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SinglyLinkedListWithTail\obj\Debug\net7.0\SinglyLinkedListWithTail.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SinglyLinkedListWithTail\obj\Debug\net7.0\SinglyLinkedListWithTail.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SinglyLinkedListWithTail\obj\Debug\net7.0\refint\SinglyLinkedListWithTail.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SinglyLinkedListWithTail\obj\Debug\net7.0\SinglyLinkedListWithTail.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SinglyLinkedListWithTail\obj\Debug\net7.0\SinglyLinkedListWithTail.genruntimeconfig.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SinglyLinkedListWithTail\obj\Debug\net7.0\ref\SinglyLinkedListWithTail.dll

@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Brothers2\bin\Debug\net7.0\Brothers2.exe
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Brothers2\bin\Debug\net7.0\Brothers2.deps.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Brothers2\bin\Debug\net7.0\Brothers2.runtimeconfig.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Brothers2\bin\Debug\net7.0\Brothers2.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Brothers2\bin\Debug\net7.0\Brothers2.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Brothers2\obj\Debug\net7.0\Brothers2.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Brothers2\obj\Debug\net7.0\Brothers2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Brothers2\obj\Debug\net7.0\Brothers2.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Brothers2\obj\Debug\net7.0\Brothers2.AssemblyInfo.cs
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Brothers2\obj\Debug\net7.0\Brothers2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Brothers2\obj\Debug\net7.0\Brothers2.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Brothers2\obj\Debug\net7.0\refint\Brothers2.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Brothers2\obj\Debug\net7.0\Brothers2.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Brothers2\obj\Debug\net7.0\Brothers2.genruntimeconfig.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\Brothers2\obj\Debug\net7.0\ref\Brothers2.dll

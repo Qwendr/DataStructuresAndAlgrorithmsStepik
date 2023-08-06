@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\QueueOnLinkedList\bin\Debug\net7.0\QueueOnLinkedList.exe
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\QueueOnLinkedList\bin\Debug\net7.0\QueueOnLinkedList.deps.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\QueueOnLinkedList\bin\Debug\net7.0\QueueOnLinkedList.runtimeconfig.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\QueueOnLinkedList\bin\Debug\net7.0\QueueOnLinkedList.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\QueueOnLinkedList\bin\Debug\net7.0\QueueOnLinkedList.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\QueueOnLinkedList\obj\Debug\net7.0\QueueOnLinkedList.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\QueueOnLinkedList\obj\Debug\net7.0\QueueOnLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\QueueOnLinkedList\obj\Debug\net7.0\QueueOnLinkedList.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\QueueOnLinkedList\obj\Debug\net7.0\QueueOnLinkedList.AssemblyInfo.cs
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\QueueOnLinkedList\obj\Debug\net7.0\QueueOnLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\QueueOnLinkedList\obj\Debug\net7.0\QueueOnLinkedList.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\QueueOnLinkedList\obj\Debug\net7.0\refint\QueueOnLinkedList.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\QueueOnLinkedList\obj\Debug\net7.0\QueueOnLinkedList.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\QueueOnLinkedList\obj\Debug\net7.0\QueueOnLinkedList.genruntimeconfig.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\QueueOnLinkedList\obj\Debug\net7.0\ref\QueueOnLinkedList.dll

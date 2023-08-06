@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SimpleInsertionSort\bin\Debug\net7.0\SimpleInsertionSort.exe
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SimpleInsertionSort\bin\Debug\net7.0\SimpleInsertionSort.deps.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SimpleInsertionSort\bin\Debug\net7.0\SimpleInsertionSort.runtimeconfig.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SimpleInsertionSort\bin\Debug\net7.0\SimpleInsertionSort.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SimpleInsertionSort\bin\Debug\net7.0\SimpleInsertionSort.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SimpleInsertionSort\obj\Debug\net7.0\SimpleInsertionSort.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SimpleInsertionSort\obj\Debug\net7.0\SimpleInsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SimpleInsertionSort\obj\Debug\net7.0\SimpleInsertionSort.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SimpleInsertionSort\obj\Debug\net7.0\SimpleInsertionSort.AssemblyInfo.cs
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SimpleInsertionSort\obj\Debug\net7.0\SimpleInsertionSort.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SimpleInsertionSort\obj\Debug\net7.0\SimpleInsertionSort.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SimpleInsertionSort\obj\Debug\net7.0\refint\SimpleInsertionSort.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SimpleInsertionSort\obj\Debug\net7.0\SimpleInsertionSort.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SimpleInsertionSort\obj\Debug\net7.0\SimpleInsertionSort.genruntimeconfig.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SimpleInsertionSort\obj\Debug\net7.0\ref\SimpleInsertionSort.dll

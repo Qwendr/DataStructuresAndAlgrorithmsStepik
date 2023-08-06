@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\DoubleLinkedList\bin\Debug\net7.0\DoubleLinkedList.exe
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\DoubleLinkedList\bin\Debug\net7.0\DoubleLinkedList.deps.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\DoubleLinkedList\bin\Debug\net7.0\DoubleLinkedList.runtimeconfig.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\DoubleLinkedList\bin\Debug\net7.0\DoubleLinkedList.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\DoubleLinkedList\bin\Debug\net7.0\DoubleLinkedList.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\DoubleLinkedList\obj\Debug\net7.0\DoubleLinkedList.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\DoubleLinkedList\obj\Debug\net7.0\DoubleLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\DoubleLinkedList\obj\Debug\net7.0\DoubleLinkedList.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\DoubleLinkedList\obj\Debug\net7.0\DoubleLinkedList.AssemblyInfo.cs
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\DoubleLinkedList\obj\Debug\net7.0\DoubleLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\DoubleLinkedList\obj\Debug\net7.0\DoubleLinkedList.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\DoubleLinkedList\obj\Debug\net7.0\refint\DoubleLinkedList.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\DoubleLinkedList\obj\Debug\net7.0\DoubleLinkedList.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\DoubleLinkedList\obj\Debug\net7.0\DoubleLinkedList.genruntimeconfig.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\DoubleLinkedList\obj\Debug\net7.0\ref\DoubleLinkedList.dll

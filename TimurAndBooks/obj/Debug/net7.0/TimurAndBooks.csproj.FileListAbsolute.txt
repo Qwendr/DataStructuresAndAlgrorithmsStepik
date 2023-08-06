@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\TimurAndBooks\bin\Debug\net7.0\TimurAndBooks.exe
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\TimurAndBooks\bin\Debug\net7.0\TimurAndBooks.deps.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\TimurAndBooks\bin\Debug\net7.0\TimurAndBooks.runtimeconfig.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\TimurAndBooks\bin\Debug\net7.0\TimurAndBooks.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\TimurAndBooks\bin\Debug\net7.0\TimurAndBooks.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\TimurAndBooks\obj\Debug\net7.0\TimurAndBooks.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\TimurAndBooks\obj\Debug\net7.0\TimurAndBooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\TimurAndBooks\obj\Debug\net7.0\TimurAndBooks.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\TimurAndBooks\obj\Debug\net7.0\TimurAndBooks.AssemblyInfo.cs
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\TimurAndBooks\obj\Debug\net7.0\TimurAndBooks.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\TimurAndBooks\obj\Debug\net7.0\TimurAndBooks.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\TimurAndBooks\obj\Debug\net7.0\refint\TimurAndBooks.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\TimurAndBooks\obj\Debug\net7.0\TimurAndBooks.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\TimurAndBooks\obj\Debug\net7.0\TimurAndBooks.genruntimeconfig.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\TimurAndBooks\obj\Debug\net7.0\ref\TimurAndBooks.dll

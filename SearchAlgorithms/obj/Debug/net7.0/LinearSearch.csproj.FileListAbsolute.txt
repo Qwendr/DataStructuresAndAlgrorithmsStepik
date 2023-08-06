@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SearchAlgorithms\bin\Debug\net7.0\LinearSearch.exe
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SearchAlgorithms\bin\Debug\net7.0\LinearSearch.deps.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SearchAlgorithms\bin\Debug\net7.0\LinearSearch.runtimeconfig.json
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SearchAlgorithms\bin\Debug\net7.0\LinearSearch.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SearchAlgorithms\bin\Debug\net7.0\LinearSearch.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SearchAlgorithms\obj\Debug\net7.0\LinearSearch.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SearchAlgorithms\obj\Debug\net7.0\LinearSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SearchAlgorithms\obj\Debug\net7.0\LinearSearch.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SearchAlgorithms\obj\Debug\net7.0\LinearSearch.AssemblyInfo.cs
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SearchAlgorithms\obj\Debug\net7.0\LinearSearch.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SearchAlgorithms\obj\Debug\net7.0\LinearSearch.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SearchAlgorithms\obj\Debug\net7.0\refint\LinearSearch.dll
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SearchAlgorithms\obj\Debug\net7.0\LinearSearch.pdb
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SearchAlgorithms\obj\Debug\net7.0\LinearSearch.genruntimeconfig.cache
+C:\Users\user\source\repos\DataStructuresAndAlgroithmsStepik\SearchAlgorithms\obj\Debug\net7.0\ref\LinearSearch.dll

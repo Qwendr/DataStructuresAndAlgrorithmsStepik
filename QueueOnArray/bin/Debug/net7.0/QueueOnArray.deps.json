@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "QueueOnArray/1.0.0": {
+        "runtime": {
+          "QueueOnArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QueueOnArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
